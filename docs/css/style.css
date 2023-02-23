@@ -1,3 +1,8 @@
+
+/*
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Dancing+Script&family=Roboto+Mono&display=swap');
+*/
+
 @font-face
 {
     font-family: 'Roboto Mono';
@@ -35,12 +40,10 @@
   font-family: 'Roboto Mono', monospace;
   font-size: 3em;
 }
+
 .p-summary #welcome {
-  font-family: 'Dancing Script', cursive;
-  font-size: 5em;
-  line-height: .3em;
-  height: .4em;
-  opacity: .7;
+  font-family: 'Cinzel', serif;
+  font-size: 3em;
 }
 
 .p-canvas-webgl {
