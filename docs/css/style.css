@@ -35,17 +35,12 @@
   font-family: 'Roboto Mono', monospace;
   font-size: 3em;
 }
-.p-summary #day {
+.p-summary #welcome {
   font-family: 'Dancing Script', cursive;
   font-size: 5em;
   line-height: .3em;
-  transform: rotate(-4deg);
   height: .4em;
   opacity: .7;
-}
-.p-summary #date {
-  font-family: 'Cinzel', serif;
-  font-size: 3em;
 }
 
 .p-canvas-webgl {
