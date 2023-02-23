@@ -29,6 +29,7 @@
 
 .p-summary {
   position: absolute;
+  font-family: 'Roboto Mono', monospace;
   top: 25%;
   left: 37.3%;
   z-index: 2;
